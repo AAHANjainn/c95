@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to left , rgb(255, 255, 0) ,rgb(0, 251, 255) , rgb(128, 0, 105));
+    
+}
+#room_name{
+    width: 50%;
+}
